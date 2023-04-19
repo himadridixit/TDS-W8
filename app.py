@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("TDS Module 8 Assignment")
+st.title("TDS Week-8 Assignment")
 
 # take three number inputs
 a = st.number_input("Enter first number: ")
